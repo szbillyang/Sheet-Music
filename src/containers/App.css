@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Fontrust Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Fontrust Regular'), url('Fontrust.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Fontrust Regular';
+  font-weight: 500;
+  color: #125c9c;
+}
