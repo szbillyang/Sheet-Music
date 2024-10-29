@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sheet-Music/static/css/main.c15af153.css",
+    "main.js": "/Sheet-Music/static/js/main.41b64843.js",
+    "static/js/453.e119be0f.chunk.js": "/Sheet-Music/static/js/453.e119be0f.chunk.js",
+    "static/media/Fontrust.woff": "/Sheet-Music/static/media/Fontrust.104aa2bc7dfafd9c9775.woff",
+    "index.html": "/Sheet-Music/index.html",
+    "main.c15af153.css.map": "/Sheet-Music/static/css/main.c15af153.css.map",
+    "main.41b64843.js.map": "/Sheet-Music/static/js/main.41b64843.js.map",
+    "453.e119be0f.chunk.js.map": "/Sheet-Music/static/js/453.e119be0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c15af153.css",
+    "static/js/main.41b64843.js"
+  ]
+}
